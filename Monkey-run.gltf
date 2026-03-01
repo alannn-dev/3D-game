@@ -8072,8 +8072,8 @@
 	"images":[
 		{
 			"mimeType":"image/png",
-			"name":"Material.001_baseColor.png",
-			"uri":"../viral_monkey_plush_toy/textures/Material.001_baseColor.png"
+			"name":"Material_001_baseColor.png",
+			"uri":"../Monkey/Material_001_baseColor.png"
 		}
 	],
 	"skins":[
